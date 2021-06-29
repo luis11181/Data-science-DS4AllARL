@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+missingno
+psycopg2
+SQLAlchemy
+matplotlib
