@@ -5,12 +5,6 @@
 ####  python/ dash/ plotly/ postgres..
 ![positiva](https://user-images.githubusercontent.com/80784724/131435030-7e8573c4-6271-4599-b8a9-3583a707a3aa.png)
 
-## 🎨 Screenshots
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/80784724/131929043-1426553d-f2f6-4089-b233-0f3f80e85b90.gif)
-
-
-
 ## :page_facing_up: Description 
 
 
@@ -90,4 +84,10 @@ All the tools provided by the app are a great step into the inicial goal of the 
     └── requeriments.txt  
 
 ```
+
+
+## 🎨 Screenshots
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80784724/131929043-1426553d-f2f6-4089-b233-0f3f80e85b90.gif)
+
 
