@@ -1,0 +1,17 @@
+pandas
+numpy
+dash
+dash_table
+dash_bootstrap_components
+dash_core_components
+dash_html_components
+plotly
+scikit-learn
+SQLAlchemy
+psycopg2
+matplotlib
+seaborn
+scipy
+plotly-express
+colorlover
+waitress
