@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 #####################################################################################
 # Connect to database and load que data for all queryes
 conn = create_engine(
-    'postgresql://mainuser:positivaadmin@dbpositiva.cogq7bwdrted.us-east-2.rds.amazonaws.com:5432/positiva')
+    'postgresql://database')
 
 # Get database
 query = '''
