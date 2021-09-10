@@ -1,0 +1,111 @@
+/* assets/style.css */
+
+:root {
+  --positiva_color: rgba(255, 119, 0, 0.849);
+  --positiva_color_hover: rgb(255, 117, 0);
+  --positiva_button_hover: rgb(214, 100, 0);
+}
+
+div {
+  border-style: none;
+}
+
+body {
+  background: #fafafa;
+}
+
+.navitem {
+  color: var(--positiva_color);
+  font-weight: bold;
+  font-size: large;
+}
+
+.navitem:hover {
+  color: var(--positiva_color_hover);
+  font-weight: bold;
+  transform: scale(1.1);
+}
+
+.button {
+  background-color: var(--positiva_color_hover);
+  color: #ffffff;
+}
+
+.menu_img {
+  height: 150px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.main_img {
+  width: 45%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0 auto;
+}
+
+.menu_icon {
+  height: 25px;
+  display: inline-block;
+}
+
+.button:hover {
+  background-color: var(--positiva_button_hover);
+  color: #ffffff;
+}
+
+.nav-link.active {
+  color: rgb(255, 0, 0);
+}
+
+#params {
+  color: #ff7500;
+  width: 600px;
+  display: flex;
+  margin: auto;
+}
+
+#ssp {
+  /*width: 500px;*/
+  margin: auto;
+}
+
+#param-dropdown {
+  width: 400px;
+}
+
+.p-dropdown {
+  width: 400px;
+  display: flex;
+}
+
+.p-dd-e {
+  width: 200px;
+  flex: 1;
+  margin: auto;
+}
+
+#scatter {
+  margin: auto;
+  width: 500px;
+  text-align: center;
+}
+
+h2 {
+  margin: auto;
+  color: var(--positiva_color);
+}
+
+h3 {
+  margin: auto;
+  color: black;
+}
