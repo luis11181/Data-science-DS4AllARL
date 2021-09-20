@@ -27,8 +27,7 @@ This page section contains interactive graphs over time and maps, the displayed 
 
 in this page section there are graphs that summarize the texts submmited by the clients that leave the company, explaining their reasons, it is also posible to filter and see all the withdrawal reasons, by specific words, categories etc... Giving a good look at the main reasons and posible actions for improvement.
 
-
-![positiva3](https://user-images.githubusercontent.com/80784724/131430719-bcf81e3a-81a8-46a9-b318-e5230400d96e.png)
+![image](https://user-images.githubusercontent.com/80784724/134083639-7b2eccf8-44ec-44ec-bb56-38db71e348e0.png)
 
 ## Machine learning forecast
 
